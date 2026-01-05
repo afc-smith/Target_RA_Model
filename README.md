@@ -19,11 +19,11 @@ ________________________________________
 
 •	Repository version: v1.0
 
-•	GitHub commit hash: a79cd56
+•	Model Repository Release tag: v1.0.0
 
-Users are encouraged to reference the specific repository version or release tag when reproducing or citing results.
+Users are encouraged to reference the model release tag (in addition to appropriately citing the associated publication as outlined further above) when reproducing or citing results.
 
-The Simul8 economic model file is too large to store directly in the repository.  You can download it from the releases section of the repository: https://github.com/afc-smith/Target_RA_Model/releases.
+The Simul8 economic model file is too large to store directly in the repository.  You can download it from the releases section of the repository: https://github.com/afc-smith/Target_RA_Model/releases/tag/v1.0.0.
 ________________________________________
 # 4. Software and System Requirements
 •	Software: Simul8 software
