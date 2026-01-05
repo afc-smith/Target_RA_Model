@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite the following paper."
+title: "Targeted anti-CCP testing to identify people at risk of rheumatoid arthritis in primary care: an early economic evaluation"
+authors:
+  - family-names: Smith
+    given-names: A F
+  - family-names: Shinkins
+    given-names: B
+  - family-names: Hensor
+    given-names: E M A
+  - family-names: Wilson
+    given-names: M
+  - family-names: Anderson
+    given-names: A
+  - family-names: Stack
+    given-names: R
+  - family-names: Emery
+    given-names: P
+  - family-names: Mankia
+    given-names: K
+  - family-names: Siddle
+    given-names: H J
+doi: "DOI pending"
+url: "https://github.com/afc-smith/Target_RA_Model"
+version: "1.0.0"
+date-released: 2026-01-05
